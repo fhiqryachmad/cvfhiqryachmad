@@ -1,4 +1,15 @@
-### Hi there 👋
+# CURRICULUM VITAE
+- Nama: Fhiqry Syawal Y.Achmad
+- TTL: Tahuna 6 Desember 2002
+- Jenis Kelamin: Laki - Laki
+- Agama: Islam
+- Alamat: Manente
+- Telepon: 085314680679
+
+## Pedidikan
+- 2017 - 2020 SMA NEGERI 1 TAMAKO
+- 2014 - 2017 SMP NEGERI 1 TAMAKO
+- 2008 - 2014 SDN INPRES BALANE
 
 <!--
 **fhiqryachmad/fhiqryachmad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
