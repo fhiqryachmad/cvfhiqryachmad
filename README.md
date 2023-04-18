@@ -3,8 +3,9 @@
 - TTL: Tahuna 6 Desember 2002
 - Jenis Kelamin: Laki - Laki
 - Agama: Islam
+- Status: Mahasiswa
 - Alamat: Manente
-- Telepon: 085314680679
+- No.HP: 085314680679
 
 ## Pedidikan
 - 2017 - 2020 SMA NEGERI 1 TAMAKO
