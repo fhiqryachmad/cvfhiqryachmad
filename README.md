@@ -1,6 +1,6 @@
 # CURRICULUM VITAE
 - Nama: Fhiqry Syawal Y.Achmad
-- TTL: Tahuna 6 Desember 2002
+- Tempat/Tanggal Lahir: Tahuna, 6 Desember 2002
 - Jenis Kelamin: Laki - Laki
 - Agama: Islam
 - Status: Mahasiswa
